@@ -1,0 +1,212 @@
+html {
+  min-width: 1200px;
+}
+.wrapper {
+  font-size: 16px;
+  height: 100vh;
+  overflow-x: hidden;
+}
+img {
+  object-fit: cover;
+}
+li {
+  list-style: none;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  word-break: break-all;
+}
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: inherit;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+// 弹性盒模型主要样式
+.center {
+  display: flex !important;
+  align-items: center;
+  justify-content: center;
+}
+.flex {
+  display: flex;
+}
+.flex_a {
+  display: flex;
+  align-items: center;
+}
+.fWrap {
+  flex-wrap: wrap !important;
+}
+
+.colum {
+  flex-direction: column;
+}
+
+.space-between {
+  justify-content: space-between !important;
+}
+
+.space-around {
+  justify-content: space-around !important;
+}
+.flex-end {
+  justify-content: flex-end !important;
+}
+
+.flex-start {
+  justify-content: flex-start;
+}
+.align-start {
+  align-items: flex-start !important;
+}
+.align-end {
+  align-items: flex-end !important;
+}
+.transition {
+  transition: all 0.3s;
+}
+// 字体大小公共类,包含所有主要字体大小
+.f14 {
+  font-size: 14px;
+}
+.f16 {
+  font-size: 16px;
+}
+.f18 {
+  font-size: 18px;
+}
+.f20 {
+  font-size: 20px;
+}
+.f22 {
+  font-size: 22px;
+}
+
+.f24 {
+  font-size: 24px;
+}
+
+.f26 {
+  font-size: 26px;
+}
+
+.f28 {
+  font-size: 28px;
+}
+
+.f30 {
+  font-size: 30px;
+}
+
+.f32 {
+  font-size: 32px;
+}
+
+.f35 {
+  font-size: 34px;
+}
+
+.f36 {
+  font-size: 36px;
+}
+
+.f40 {
+  font-size: 40px;
+}
+
+.f46 {
+  font-size: 46px;
+}
+
+// 主要字体颜色
+.c333 {
+  color: #333333;
+}
+
+.c666 {
+  color: #666666;
+}
+.c778 {
+  color: #77838f;
+}
+.cred {
+  color: #de4437;
+}
+
+.c999 {
+  color: #999999;
+}
+
+.cfff {
+  color: #ffffff !important;
+}
+
+.fbold {
+  font-weight: 700;
+}
+
+.pointer {
+  cursor: pointer;
+}
+.card {
+  box-shadow: 0 0.05rem 0.12rem rgba(189, 197, 209, 0.2);
+  background-color: #fff;
+  border-radius: 0.1rem;
+  border: 1px solid #e7eaf3;
+}
+.ml5 {
+  margin-left: 5px;
+}
+.mr5 {
+  margin-right: 5px;
+}
+.mt5 {
+  margin-top: 5px;
+}
+.mb5 {
+  margin-bottom: 5px;
+}
+.ml10 {
+  margin-left: 10px;
+}
+.mr10 {
+  margin-right: 10px;
+}
+.mt10 {
+  margin-top: 10px;
+}
+.mb10 {
+  margin-bottom: 10px;
+}
+.mr15 {
+  margin-right: 15px;
+}
+.displayblock {
+  display: inline-block;
+}
+.w1200 {
+  width: 1200px;
+  margin: 0 auto;
+}
+.el-pagination {
+  text-align: center;
+  padding: 30px 0 !important;
+}
+.noData {
+  text-align: center;
+  min-height: 400px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  background: #fff;
+  margin-bottom: 30px;
+}
+#nprogress .bar {
+  background: #a21e1e !important;
+}

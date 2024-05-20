@@ -1,0 +1,114 @@
+{
+  "id": "2627600",
+  "name": "中科知识中心",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5645147",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1071075",
+      "name": "多选框2",
+      "font_class": "duoxuankuang2",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "1071107",
+      "name": "多选框",
+      "font_class": "duoxuankuang",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "16398973",
+      "name": "减少",
+      "font_class": "jianshao",
+      "unicode": "e858",
+      "unicode_decimal": 59480
+    },
+    {
+      "icon_id": "16399010",
+      "name": "增加",
+      "font_class": "zengjia",
+      "unicode": "e85f",
+      "unicode_decimal": 59487
+    },
+    {
+      "icon_id": "22660220",
+      "name": "删 除  (1)",
+      "font_class": "a-shanchu1",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "2076428",
+      "name": "向上箭头粗小",
+      "font_class": "xiangshangjiantoucuxiao",
+      "unicode": "e8d8",
+      "unicode_decimal": 59608
+    },
+    {
+      "icon_id": "2742653",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "755541",
+      "name": "放大镜",
+      "font_class": "search",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "833975",
+      "name": "箭头_下",
+      "font_class": "icon_arrow_bottom",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "834070",
+      "name": "箭头_上",
+      "font_class": "icon_arrow_top",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "1120964",
+      "name": "点赞",
+      "font_class": "dianzan1",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "4685763",
+      "name": "分享",
+      "font_class": "Group-",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "6263355",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "17810510",
+      "name": "icon_向下箭头粗小",
+      "font_class": "icon_xiangxiajiantoucuxiao",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    }
+  ]
+}
